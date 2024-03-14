@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Data Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2-2012_BIT_POI.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1Method2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/05fc5cd4cfed703c083b95cd602529cde0a64e07.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/1c0fefcee3f8927131fafae1cae2032ec61a0119.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/2622634368ec628a4632023cd83cc60391c0a3b1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/2bcb70e9922b3a72cce9d06e3bc5e46fbbc39097.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/2d6b46048318bdfa0aa5925f7517954e39b36bc1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/38d96ef7c1f7bf24d153c416a81f09fb2d8c592c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/45cee0e602a6ca314853fed8b21d6ab7353e869d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/47e66f9068caa0ff58161a2e3fcf63162da664f0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/64b388e510a8a83584bec625d9340da4b38a45a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/8ae3dbda9147fc8484c545e12d954658c457891b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/b74a5e494983e59b9eb70766a73e041ead3572f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/b79728642f6b0ad5061428cc14951817d4c19a68.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/c4ec152ae398981dc416569d214cc4159a964b40.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/cd14ea847e6ec22786ad6795d1a0d53958d0ff86.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/e4de68b9d64f943dc1666cfaaf7866e5bf8be203.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/f323242001b7a59da8e20f13c86f7a5b1eab5381.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/fcdc2e78a7c0588bd81dfc01b285ee8f65c7004e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph_file.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shortest_path" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dB9izhjNtGoB1I6CnxF0OvIuwe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/glebp/PycharmProjects/Data Science&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\glebp\PycharmProjects\Data Science" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="" />
+      <created>1709470736198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709470736198</updated>
+      <workItem from="1709470743473" duration="7309000" />
+      <workItem from="1709522312504" duration="18296000" />
+      <workItem from="1709606163891" duration="1041000" />
+      <workItem from="1709726748992" duration="4424000" />
+      <workItem from="1709771542502" duration="31000" />
+      <workItem from="1709797022073" duration="623000" />
+      <workItem from="1709890449702" duration="2554000" />
+      <workItem from="1709972885628" duration="258000" />
+      <workItem from="1710084818740" duration="1320000" />
+      <workItem from="1710135035558" duration="17236000" />
+      <workItem from="1710374600544" duration="113000" />
+      <workItem from="1710382577348" duration="301000" />
+      <workItem from="1710384624358" duration="12516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
