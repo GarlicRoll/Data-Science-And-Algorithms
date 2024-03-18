@@ -4,38 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data Science.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment2-2012_BIT_POI.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1Method2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/05fc5cd4cfed703c083b95cd602529cde0a64e07.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/1c0fefcee3f8927131fafae1cae2032ec61a0119.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/2622634368ec628a4632023cd83cc60391c0a3b1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/2bcb70e9922b3a72cce9d06e3bc5e46fbbc39097.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/2d6b46048318bdfa0aa5925f7517954e39b36bc1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/38d96ef7c1f7bf24d153c416a81f09fb2d8c592c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/45cee0e602a6ca314853fed8b21d6ab7353e869d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/47e66f9068caa0ff58161a2e3fcf63162da664f0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/64b388e510a8a83584bec625d9340da4b38a45a2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/8ae3dbda9147fc8484c545e12d954658c457891b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/b74a5e494983e59b9eb70766a73e041ead3572f8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/b79728642f6b0ad5061428cc14951817d4c19a68.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/c4ec152ae398981dc416569d214cc4159a964b40.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/cd14ea847e6ec22786ad6795d1a0d53958d0ff86.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/e4de68b9d64f943dc1666cfaaf7866e5bf8be203.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/f323242001b7a59da8e20f13c86f7a5b1eab5381.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/fcdc2e78a7c0588bd81dfc01b285ee8f65c7004e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph_file.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortest_path" afterDir="false" />
+    <list default="true" id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="Finished 2 lab">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +45,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/glebp/PycharmProjects/Data Science&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/glebp/PycharmProjects/pythoBudget&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -126,8 +97,23 @@
       <workItem from="1710135035558" duration="17236000" />
       <workItem from="1710374600544" duration="113000" />
       <workItem from="1710382577348" duration="301000" />
-      <workItem from="1710384624358" duration="12516000" />
+      <workItem from="1710384624358" duration="13095000" />
+      <workItem from="1710496865653" duration="1428000" />
+      <workItem from="1710562935520" duration="1193000" />
+      <workItem from="1710692206337" duration="332000" />
+      <workItem from="1710692666883" duration="325000" />
+      <workItem from="1710730679160" duration="4968000" />
+      <workItem from="1710736222991" duration="10852000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished 2 lab">
+      <option name="closed" value="true" />
+      <created>1710430091256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710430091256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished 2 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished 2 lab" />
   </component>
 </project>
