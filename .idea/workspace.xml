@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="Finished 2 lab">
+    <list default="true" id="864c52aa-1c16-44ca-8007-26fcc15857ee" name="Changes" comment="Added covering the map. only thing to do now - update one function for checking near cells">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Lab2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cache/cad04458a31d3b61d35cbc62f860fe57b2dab7f6.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.ipynb" afterDir="false" />
     </list>
@@ -103,7 +105,7 @@
       <workItem from="1710692206337" duration="332000" />
       <workItem from="1710692666883" duration="325000" />
       <workItem from="1710730679160" duration="4968000" />
-      <workItem from="1710736222991" duration="10852000" />
+      <workItem from="1710736222991" duration="19103000" />
     </task>
     <task id="LOCAL-00001" summary="Finished 2 lab">
       <option name="closed" value="true" />
@@ -113,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710430091256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added covering the map. only thing to do now - update one function for checking near cells">
+      <option name="closed" value="true" />
+      <created>1710748880946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710748880946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Finished 2 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished 2 lab" />
+    <MESSAGE value="Added covering the map. only thing to do now - update one function for checking near cells" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added covering the map. only thing to do now - update one function for checking near cells" />
   </component>
 </project>
