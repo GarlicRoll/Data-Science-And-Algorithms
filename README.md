@@ -1,20 +1,29 @@
 # Data-Science-And-Algorithms
-## Assignemnt 1: Building path
+## Assignment 1: My Road Network
+Important Time
+Submission: 23:59 Mar. 14, 2024 (UTC+8)
 Study Area
-min_lat = 39.84     
-min_lon = 116.30     
-max_lat = 39.97     
-max_lon = 116.46     
-Getting study area graph (with roads for cars)     
-Two random points on the map which I will use to calculate route     
-Calculating shortest path between two points with dijkstra algorithm      
-Figure 1: Road network plot using OSMnx      
-Figure 2: Scaled map of our route     
-Figure 3: Histogram of edge lengths      
-Figure 4: Bars of different types of roads      
-Saving graph and shortest path for QGIS      
-
-
+minimum latitude: 39.84
+minimum longitude: 116.30
+maximum latitude: 39.97
+maximum longitude: 116.46
+Task Description
+l Construct a routable road network based on NetworkX
+n Each edge should at least contain "type"/"highway" and "length"
+i. Method 1: OSMnx
+ii. Method 2: From scratch (w/o using OSMnx): An optional choice, you would be
+awarded with bonus score if you choose such a method.
+n Test whether the shortest path query can work correctly given arbitrarily two vertices in the
+road network (show the testing process in your report).
+ - It should be already functional if you use Method 1 to construct the road network.
+Otherwise, you should pay additional attention to it.
+ - The shortest path query is NOT required to be implemented by your own. You can use the
+interface of NetworkX, e.g., nx.shortest_path, nx.astar_path
+l Visualize your network data with at least 3 figures using arbitrary visualization tools.
+n (Optional): At least one figure is draw by KQGIS Desktop.
+For example, you can plot the road network in QGIS, draw the distribution of the road type/highway,
+the distribution of the road length, ...
+       
 ## Assignment 2: My Spatial Databases
 Important Time
 Submission: 23:59 Mar. 21, 2024 (UTC+8) ### Related Datasets Assignment2-
